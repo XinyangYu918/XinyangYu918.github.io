@@ -4,6 +4,9 @@ title: "About"
 author_profile: true
 ---
 
+<img src="/images/XinyangYu.JPG" alt="Xinyang Yu" width="150px" style="border-radius: 50%;">
+
+
 I am a postdoctoral researcher at the **Social, Genetic and Developmental Psychiatry Centre**, King’s College London.  
 
 My research focuses on **eating disorders, disordered eating, and adolescent mental health**, using longitudinal **neuroimaging** and **multi-omics** data from large-scale cohorts such as **IMAGEN**, **STRATIFY**, and **ENIGMA**.
