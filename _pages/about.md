@@ -1,11 +1,8 @@
 ---
-permalink: /about/
 title: "About"
+permalink: /about/
 author_profile: true
 ---
-
-<img src="/images/XinyangYu.JPG" alt="Xinyang Yu" width="150px" style="border-radius: 50%;">
-
 
 I am a postdoctoral researcher at the **Social, Genetic and Developmental Psychiatry Centre**, King’s College London.  
 
