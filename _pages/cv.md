@@ -11,54 +11,45 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **PhD in Social, Genetic and Developmental Psychiatry**, King’s College London  
+  *Oct 2021 – Apr 2025*
 
-Work experience
+* **MSc in Basic Psychology**, Institute of Psychology, Chinese Academy of Sciences  
+  *Sep 2018 – Jul 2021*  
+  GPA: 3.73/4 (Top 5%)
+
+* **BSc in Psychology** (Double Major), Peking University  
+  *Sep 2015 – Jul 2018*
+
+* **BSc in Medical Laboratory Technology**, Peking University  
+  *Sep 2014 – Jul 2018*  
+  GPA: 3.52/4 (Ranked 2nd/23)
+
+Employment
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **Postdoctoral Research Associate**, King’s College London  
+  *Apr 2025 – present*  
+  PI: Prof. Sylvane Desrivières
   
-Skills
+Research Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Neuroimaging**: fMRI and sMRI analysis (SPM12, CAT12), preprocessing & longitudinal pipelines  
+* **Omics**: GWAS, EWAS, genotype imputation, polygenic scoring, functional annotation  
+* **Longitudinal Data**: SEM (GAMLSS, LGCM, growth mixture models), GAM, mixed models  
+* **Software**: R, MATLAB, PLINK, Mplus; familiar with Python and STATA  
+* **Collaboration**: Active member of international consortia (IMAGEN, STRATIFY, ESTRA, ENIGMA)
 
-Publications
+Awards
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* King’s–CSC PhD Scholarship (full tuition + $75,000 USD, 2021–2025)  
+* National Scholarship (Top 5% students in China, $3,000 USD, 2019–2020)  
+* First Prize Scholarship, IPCAS (Top 10%, $1,000 USD, 2018–2019)  
+* Excellent Graduate (Top 5%, 2018)  
+* Second Scholarship, PKU (2016–2018)
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* **Graduate Teaching Assistant**  
+  *Feb – Apr 2022*  
+  Psychological Approaches to Treatment (MSc in Developmental Psychology and Psychopathology)
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
