@@ -4,7 +4,7 @@ permalink: /contact/
 author_profile: true
 ---
 
-You are welcome to reach out for academic collaboration, research inquiries, or general questions.
+You are welcome to reach out for academic collaboration, research inquiries, or general questions!
 
 📧 **Email**: xinyang.1.yu@kcl.ac.uk  
 📍 **Location**: King's College London, Institute of Psychiatry, Psychology & Neuroscience (IoPPN)
