@@ -20,7 +20,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/XinyangYu.JPG"
+  avatar           : "../images/XinyangYu.JPG"
   name             : "Xinyang Yu"
   pronouns         : "she/her"  
   bio              : "Psychiatry and neuroscience researcher using brain imaging and multi-omics to study eating disorders and adolescent mental health."
