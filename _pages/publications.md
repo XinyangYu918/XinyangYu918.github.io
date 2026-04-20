@@ -18,13 +18,15 @@ Below is a list of selected publications:
 {% endfor %}</ul>
 
 <h2>Preprints under review</h2>
-<ul>{% for publication in site.data.publications %}
-  <li>
+<ul>
+{% for publication in site.data.preprints %}
+  <li style="margin-bottom: 1em;">
     <strong>{{ publication.title }}</strong><br>
     {{ publication.authors }}<br>
     <em>{{ publication.journal }}</em>, {{ publication.year }}<br>
     {% if publication.link %}
-      <a href="{{ publication.link }}" target="_blank">DOI</a>
+      <a href="{{ publication.link }}" target="_blank" rel="noopener noreferrer">DOI</a>
     {% endif %}
   </li>
-{% endfor %}</ul>
+{% endfor %}
+</ul>
