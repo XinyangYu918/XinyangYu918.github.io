@@ -1,0 +1,9 @@
+<header>
+  <a class="brand" href="{{ '/' | relative_url }}">Xinyang Yu<span lang="zh">于昕洋</span></a>
+  <nav aria-label="Main navigation">
+    <a href="{{ '/' | relative_url }}#research"{% if page.section == 'home' %} class="active"{% endif %}>Research</a>
+    <a href="{{ '/publications/' | relative_url }}"{% if page.section == 'publications' %} class="active" aria-current="page"{% endif %}>Publications</a>
+    <a href="{{ '/cv/' | relative_url }}"{% if page.section == 'cv' %} class="active" aria-current="page"{% endif %}>CV</a>
+    <a href="{{ '/contact/' | relative_url }}"{% if page.section == 'contact' %} class="active" aria-current="page"{% endif %}>Contact</a>
+  </nav>
+</header>
