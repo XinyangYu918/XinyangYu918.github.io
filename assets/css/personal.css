@@ -11,3 +11,13 @@
 @media(max-width:580px){.cv-section{grid-template-columns:1fr;gap:20px;padding:28px 0}.cv-section h2{font-size:26px}.profile-contact{grid-template-columns:1fr;gap:15px}.profile-links{padding:25px}.contact-email{font-size:22px}.page-actions{flex-wrap:wrap}}
 
 .cv-navigation{position:sticky;top:0;z-index:20;background:var(--bg);border-top:1px solid var(--line);margin-bottom:0}.cv-section-nav{display:flex;gap:25px;align-items:center;overflow-x:auto;white-space:nowrap;padding:17px 2px 15px;scrollbar-width:thin;font-size:13px}.cv-section-nav a{color:var(--muted);padding:3px 0;border-bottom:1px solid transparent}.cv-section-nav a[aria-current="location"]{color:var(--accent);border-bottom-color:var(--accent)}.cv-reading-progress{height:3px;background:var(--line);overflow:hidden}.cv-progress-fill{height:100%;background:var(--accent);transform:scaleX(0);transform-origin:left}.cv-section{scroll-margin-top:95px}@media(max-width:580px){.cv-section-nav{gap:20px;font-size:12px;padding:14px 2px}.cv-section{scroll-margin-top:90px}}
+
+/* Soft colors distinguish the three research interests. */
+#research .themes{gap:18px}
+#research .theme{padding:24px 22px;background:#edf1e9}
+#research .theme:nth-child(2){background:#eaf0f3}
+#research .theme:nth-child(3){background:#f4ebe5}
+#research .theme:nth-child(1) .num{color:#526747}
+#research .theme:nth-child(2) .num{color:#426879}
+#research .theme:nth-child(3) .num{color:#865e4b}
+@media(max-width:580px){#research .theme{padding:22px 20px}}
